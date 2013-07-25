@@ -1,5 +1,4 @@
-Caesar
-======
+# Caesar
 
 Caesar is a little program that cracks messages encrypted with the [Caesar cipher][1] using frequency analysis. It also allows you to just encrypt messages with a shift value or display a message's relative letter frequencies.
 
@@ -7,8 +6,7 @@ Caesar is a little program that cracks messages encrypted with the [Caesar ciphe
 
 [1]: http://en.wikipedia.org/wiki/Caesar_cipher
 
-Usage
------
+## Usage
 
 Here is Caesar in action:
 
@@ -30,8 +28,7 @@ Here is Caesar in action:
 
 The `cat msg` line will probably be different for you since it used a random shift value, but 96.15% of the time it will be unintelligible (the shift value won't be zero).
 
-License
--------
+## License
 
 Copyright © 2013 Mitchell Kember
 
