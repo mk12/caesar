@@ -30,6 +30,6 @@ The `cat msg` line will probably be different for you since it used a random shi
 
 ## License
 
-Copyright © 2013 Mitchell Kember
+© 2013 Mitchell Kember
 
 Caesar is available under the MIT License; see [LICENSE](LICENSE.md) for details.
